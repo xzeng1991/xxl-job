@@ -8,7 +8,7 @@
 	<modules>
 		<module>xxl-job-admin</module>
 		<module>xxl-job-client</module>
-		<module>xxl-job-client-demo</module>
+		<!-- <module>xxl-job-client-demo</module> -->
 	</modules>
 
 	<build>
